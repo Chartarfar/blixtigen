@@ -12,12 +12,28 @@
 	<atom:link href="/https://chartarfar.github.io/blixtigen/author/albork91gmail-com/feed/" rel="self" type="application/rss+xml" />
 	<link>/https://chartarfar.github.io/blixtigen</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 17 Feb 2019 12:09:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Feb 2019 13:28:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.3</generator>
 	<item>
+		<title>bla bla bla bla</title>
+		<link>/https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/</link>
+		<comments>/https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/#respond</comments>
+		<pubDate>Sun, 17 Feb 2019 13:28:26 +0000</pubDate>
+		<dc:creator><![CDATA[albork91@gmail.com]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/https://chartarfar.github.io/blixtigen/?p=5</guid>
+		<description><![CDATA[bla bla bla bla]]></description>
+				<content:encoded><![CDATA[
+<p>bla bla bla bla</p>
+]]></content:encoded>
+			<wfw:commentRss>/https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/https://chartarfar.github.io/blixtigen/2019/02/17/hello-world/</link>
 		<comments>/https://chartarfar.github.io/blixtigen/2019/02/17/hello-world/#comments</comments>
