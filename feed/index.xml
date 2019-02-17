@@ -9,8 +9,8 @@
 
 <channel>
 	<title>blixtigen</title>
-	<atom:link href="https:///https://chartarfar.github.io/blixtigen/feed/" rel="self" type="application/rss+xml" />
-	<link>https:///https://chartarfar.github.io/blixtigen</link>
+	<atom:link href="https://chartarfar.github.io/blixtigen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chartarfar.github.io/blixtigen</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 17 Feb 2019 13:28:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,34 +19,34 @@
 	<generator>https://wordpress.org/?v=5.0.3</generator>
 	<item>
 		<title>bla bla bla bla</title>
-		<link>https:///https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/</link>
-		<comments>https:///https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/#respond</comments>
+		<link>https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/</link>
+		<comments>https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/#respond</comments>
 		<pubDate>Sun, 17 Feb 2019 13:28:26 +0000</pubDate>
 		<dc:creator><![CDATA[albork91@gmail.com]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https:///https://chartarfar.github.io/blixtigen/?p=5</guid>
+		<guid isPermaLink="false">https://chartarfar.github.io/blixtigen/?p=5</guid>
 		<description><![CDATA[bla bla bla bla]]></description>
 				<content:encoded><![CDATA[
 <p>bla bla bla bla</p>
 ]]></content:encoded>
-			<wfw:commentRss>https:///https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/feed/</wfw:commentRss>
+			<wfw:commentRss>https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https:///https://chartarfar.github.io/blixtigen/2019/02/17/hello-world/</link>
-		<comments>https:///https://chartarfar.github.io/blixtigen/2019/02/17/hello-world/#comments</comments>
+		<link>https://chartarfar.github.io/blixtigen/2019/02/17/hello-world/</link>
+		<comments>https://chartarfar.github.io/blixtigen/2019/02/17/hello-world/#comments</comments>
 		<pubDate>Sun, 17 Feb 2019 12:09:03 +0000</pubDate>
 		<dc:creator><![CDATA[albork91@gmail.com]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https:///https://chartarfar.github.io/blixtigen/?p=1</guid>
+		<guid isPermaLink="false">https://chartarfar.github.io/blixtigen/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>https:///https://chartarfar.github.io/blixtigen/2019/02/17/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://chartarfar.github.io/blixtigen/2019/02/17/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
