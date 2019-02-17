@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: bla bla bla bla</title>
-	<atom:link href="/https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/</link>
+	<atom:link href="http://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/feed/" rel="self" type="application/rss+xml" />
+	<link>http://chartarfar.github.io/blixtigen/2019/02/17/bla-bla-bla-bla/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 17 Feb 2019 12:09:03 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
